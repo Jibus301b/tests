@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+    <!--
+    SPDX-FileCopyrightText: DMatthieu <jibus301b@gmail.com>
+    SPDX-License-Identifier: CC0-1.0
+    -->
+    <id>monapp</id>
+    <name>Mon App</name>
+    <summary>111</summary>
+    <description><![CDATA[111]]></description>
+    <version>0.0.1</version>
+    <licence>agpl</licence>
+    <author mail="jibus301b@gmail.com" >DMatthieu</author>
+    <namespace>MonApp</namespace>
+    <category>customization</category>
+    <bugs>https://github.com/Jibus301b</bugs>
+    <dependencies>
+        <nextcloud min-version="28" max-version="28"/>
+    </dependencies>
+</info>
